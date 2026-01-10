@@ -31,8 +31,8 @@ global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Martin"
 global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ Martin"
 global.etiqueta = "Martin"
 global.currency = "¥enes"
-global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg"
-global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
+global.banner = "https://cdn.hostrta.win/fl/ivh2.jpg"
+global.icono = "https://cdn.hostrta.win/fl/ivh2.jpg"
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
